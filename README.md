@@ -1,6 +1,7 @@
 ## Matheus Rocha aqui :)
 
-- 💼 Analista de Business Intelligence na [Farmácia Indiana](https://www.farmaciaindiana.com.br/?srsltid=AfmBOooebsXSU-vMYzZZRVtNaXhGwPN7pK-uw5kBvm7LoYI8rPzJbpMD)
+Analista de Business Intelligence na [Farmácia Indiana](https://www.farmaciaindiana.com.br/?srsltid=AfmBOooebsXSU-vMYzZZRVtNaXhGwPN7pK-uw5kBvm7LoYI8rPzJbpMD)
+
 - 📊 Portfólio [RBI-Dashboards](https://sites.google.com/view/matheus-rocha-de-sousa-lima?usp=sharing)
 - 👨🏻‍💻 Atualmente mais focado em:
 <div style="display: inline">
