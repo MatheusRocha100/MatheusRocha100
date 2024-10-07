@@ -15,7 +15,6 @@
     <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
 </div>
 
-##
 
 ## Você também me encontra em:
 <a href="https://www.linkedin.com/in/matheus-rocha-de-sousa-lima-92174a231/">
