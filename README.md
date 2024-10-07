@@ -16,8 +16,10 @@
     <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
     <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
     <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+    <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
 
 </div>
+                    
           
 ## Você também me encontra em:
 <a href="https://www.linkedin.com/in/matheus-rocha-de-sousa-lima-92174a231/">
@@ -27,10 +29,10 @@
 <a href="https://mail.google.com/mail/u/5/#inbox?compose=GTvVlcRzDDJBRNSWQjvBjPkZnNfbWwscVQnNnLXVwdpllFrKCCLlDkjDGPgpCsjFKzzbVlLctZzMR">
   <img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-          
 
-
-          
+<a href="https://wa.me/qr/FSER2S7526VSN1">
+  <img src= "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
 
       
   
